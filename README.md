@@ -11,6 +11,7 @@
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/kermitlafrog61?tab=repositories&q=django)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-88e86d?style=for-the-badge&logo=django&logoColor=white&color=3D9217&labelColor=gray)](https://github.com/kermitlafrog61?tab=repositories&q=django-rest-framework)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/kermitlafrog61?tab=repositories&q=fastapi)
+[![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs)](https://github.com/kermitlafrog61?tab=repositories&q=nextjs)
 
 [![Telegram](https://img.shields.io/badge/Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/kermitlafrog61?tab=repositories&q=telegram-bot)
 [![Parsing](https://img.shields.io/badge/Parsing-4f326c.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/kermitlafrog61?tab=repositories&q=parser)
