@@ -17,6 +17,7 @@
 [![Parsing](https://img.shields.io/badge/Parsing-4f326c.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/kermitlafrog61?tab=repositories&q=parser)
 [![Nginx](https://img.shields.io/badge/nginx-2CA6E0?style=for-the-badge&logo=nginx&logoColor=white&color=009639)](https://github.com/kermitlafrog61?tab=repositories&q=nginx)
 [![Docker](https://img.shields.io/badge/docker-2CA6E0?style=for-the-badge&logo=docker&logoColor=white&color=0092e6)](https://github.com/kermitlafrog61?tab=repositories&q=docker)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-2f6792?style=for-the-badge&logo=postgresql&logoColor=white&color=2f6792)](https://github.com/kermitlafrog61?tab=repositories&q=postgresql)
 
 ---------
 
