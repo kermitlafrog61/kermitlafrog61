@@ -24,4 +24,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=My+social+networks:)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/telegram-2CA6E0?style=for-the-badge&logo=telegram&logoColor=white&color=blue)](https://t.me/krmt61)
-[![Linkedin](https://img.shields.io/badge/linkedin-2CA6E0?style=for-the-badge&logo=linkedin&logoColor=white&color=0092e6)](https://www.linkedin.com/in/kermit-la-frog61/)
+[![Linkedin]([https://img.shields.io/badge/linkedin-2CA6E0?style=for-the-badge&logo=linkedin&logoColor=white&color=0092e6](https://custom-icon-badges.demolab.com/badge/LinkedIn-2CA6E0?style=for-the-badge&logo=linkedin-white&logoColor=white&color=0092e6))](https://www.linkedin.com/in/kermit-la-frog61/)
